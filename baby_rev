@@ -1,0 +1,13 @@
+To get the flag you can use either ghidra or radare2
+With radare you can dissamble the main function to get the 2 parts of the flag
+```
+r2 baby_rev
+aaa
+s sym.main
+pdf
+```
+next you go to the 0x00001468 breakpoint
+And the first part is written here: b@by_R3v
+To get the flag you got to the 0x000014e9 breakpoint and the flag is here: baby_r3v_champ
+
+Boom flagged: nite{baby_r3v_champ}
