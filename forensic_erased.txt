@@ -1,0 +1,123 @@
+$ file *
+
+0UvHFmg5PMqG: data
+1U4VWZ3v8Y5y: data
+2dQD8HgTobvZ: data
+2E08g6wgkxuD: data
+2V4CuicpgCN6: data
+3dluazHNCJ6i: data
+53VH0PWNjqQL: data
+5Fil1ENdzfxa: data
+5kbn1PaunmzS: data
+5ma7KnJJKngB: data
+6ge9lVff7D17: data
+6n5o4QY5jhnj: data
+6o4tQ2zmPScg: data
+80QSz6BBmTVB: data
+9aSMYesI3f4i: data
+9GFfDaqb6VHU: data
+AUGr7OoH2q5d: data
+aVsnn9PEzrVh: data
+b34G3L15l0v3: JPEG image data
+BhsoLsEo13hi: data
+BmuIWchykdkA: data
+BRVF0vkd1Jeo: data
+bUUAwmhCKwjK: data
+BXYyx8gxbeHl: data
+bZSQsHLOlIuM: data
+C8qJ1kio4v3w: data
+cbgDE6P9IOlP: data
+DLYo548cNH6r: data
+DXjTv4JYpWnk: data
+E1UIuhzdLlX6: data
+eB3Pwrtqt97p: data
+F1WHk0Qkqmp7: data
+f35XwFubITTO: data
+FD9x9Vx5dfyt: data
+FeYhp70eQ2jQ: data
+g2dsfxBBS2JJ: data
+G2sQgtzWF8Cf: data
+GL6RTFyWv4X9: data
+gLS4UhJ7vT7L: data
+gzLoqmeWbwuq: DOS executable (COM)
+hZu4cYmeNGf6: data
+iET7Sf5LpOyH: data
+iU9Pym7M94Jz: data
+IzPF1sRU54Tm: OpenPGP Public Key
+JEbPYUx2Wz3Y: data
+jNwQkAUC85Wg: data
+K5rRZQSsKGHp: data
+kljXbPyl4t2Z: data
+l6raWec08UXZ: data
+lGHQkNhEx6cs: data
+LS1SVpYBG3nk: data
+M7wfU5hzUELR: ASCII text
+Nbg4qpG40qEO: data
+NCS8KRPpIW6t: data
+NnexR44i8rp3: data
+NTzAj6ciHGIY: data
+OoUQUKpHzvRt: data
+oUxX9bSwHppw: data
+ozCmG9NQajNU: data
+p8uJrHqdK3JE: data
+PUuydBXL4kQl: data
+Q2fWN3819uMx: data
+q3PUPH6HyCxR: data
+qbzOlvpfnfhU: data
+qQVsctOipmDT: data
+RKprzXF0paX0: data
+SES8kiCXMeUZ: data
+SgJhwS1HQCo4: data
+SPwpSK8dchWp: data
+Tr82HMdN7F1r: data
+u3pq29Xf46MI: data
+uAvh5qp6qGjO: data
+UAzbMNin9lG2: data
+uO5X4kAnTV9L: OpenPGP Secret Key
+v0G1YyWofwel: data
+V5wSyI5jX4Fs: data
+v9ipxs8dUcqY: data
+VAw3KMxkgVx7: data
+VF6Sn4mnJAT9: data
+w2Ab6C52RLJx: data
+wln6tBTBZFfW: data
+WtdPMLkZQped: data
+wZTsyCFgTGwa: data
+x0ri7hsG6Fwj: data
+xDD421qfQNry: 370 XA sysV executable not stripped - 5.2 format
+XJCay8vPJgny: data
+xQCC7RNr8PAL: data
+XqQw2xbpA5im: data
+xsOzd4bVVvHa: data
+xukDzUGXlTJP: data
+zfhOppSVl1sr: data
+ZOXHdlolc50V: data
+zSnuV89VQ2oc: data
+ztLvGGIe5S2x: data
+
+
+M7wfU5hzUELR contains morse code but reversed
+
+____. ._ _... __... ._. ..... __...
+-
+__... ._ ._._ _____ .._ ____. ._ .__
+-
+____. .....
+-
+._.. _.. ._
+
+"9AB7R57T7AÆ0U9AWT95TLDA" -> wrong flag
+
+Reverting it:
+
+.____ _. ..._ ...__ ._. ..... ...__
+
+...__ _. _._. _____ _.. .____ _. __.
+
+.____ .....
+
+.._. .._ _.
+
+"1NV3R533NC0D1NG15FUN"
+
+nite{1NV3R53_3NC0D1NG_15_FUN}
